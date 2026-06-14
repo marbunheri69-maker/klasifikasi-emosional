@@ -172,7 +172,7 @@ h1, h2, h3, .stMarkdown, .stWrite, label, p {
 st.title("😊 Emotion Classification System")
 
 st.write(
-    "Masukkan sebuah teks dan sistem akan memprediksi emosi yang terkandung di dalamnya menggunakan model Machine Learning."
+    "Masukkan sebuah teks dan sistem akan memprediksi emosi yang terkandung di dalamnya menggunakan model Machine Learning (kalimat berbahasa bahasa inggris)."
 )
 
 # ==================================================
